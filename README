@@ -1,0 +1,9 @@
+Need to write solidity code to be accessed in a Javascript project, we need some way to 
+rapidly test contracts (without doing a lot of button pressing in Remix), and finally need
+a way to deploy our contracts to a public network
+
+TODO
+-set up Solidity compiler to build the contracts
+-set up Mocha test runniner to test Solidity code
+-set up a deploy script to compile and deploy the contract
+
